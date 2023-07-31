@@ -1,13 +1,19 @@
-title: John Doe # your name (or website title) here
+title: Harsiddh Tamboli # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  With 1+ years of experience as an Associate Data Analyst, I can 
+  bring my expertise and analytical approach to take data-driven 
+  solution using Python, SQL and google spreadsheet.
   <br><br>
-  Second description 
+  Working on data science projects helped me to enhance Machine learning 
+  and deep learning skills, it helped me with my approach to solve NLP,
+  classifier model and time-series analysis problems.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  still on a run to learn.
+  <br><br>
+  <a href="https://www.linkedin.com/in/harsiddh-tamboli-602073183/</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
